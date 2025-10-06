@@ -1,6 +1,6 @@
 # Experiment 2: DDL Commands
-###NAME : DILIP M P
-###REG.NO : 212223230048
+### NAME : DILIP M P
+### REG.NO : 212223230048
 ## AIM
 To study and implement DDL commands and different types of constraints.
 
