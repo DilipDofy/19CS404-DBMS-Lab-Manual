@@ -1,6 +1,6 @@
 # Experiment 4: Aggregate Functions, Group By and Having Clause
-### Reg.No : 212223230048
 ### Name : DILIP M P
+### Reg.No : 212223230048
 ## AIM
 To study and implement aggregate functions, GROUP BY, and HAVING clause with suitable examples.
 
